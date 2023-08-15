@@ -55,6 +55,4 @@ This PowerShell script allows you to send an email using Gmail's SMTP server. It
 - Be cautious about storing your password in plain text within the script. Use an "App Password" or a more secure method for handling credentials.
 - Enabling "Less secure apps" in your Google Account settings might be required for the script to work.
 
-## License
 
-This script is provided under the MIT License.
