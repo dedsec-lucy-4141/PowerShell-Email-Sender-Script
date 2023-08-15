@@ -1,1 +1,2 @@
-# PowerShell-Email-Sender-Script
+# PowerShell Email Sender Script
+ 
